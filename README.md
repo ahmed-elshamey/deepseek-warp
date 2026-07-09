@@ -79,4 +79,4 @@ node manage-api.mjs [command] [name]
 This project is created for **educational purposes** and to demonstrate the power of browser automation. Please use it responsibly and respect the Terms of Service of the providers.
 
 ---
-Built by Ahmed elshamey for the AI Community | صُنع بواسطة أحمد الشامي لمجتمع الذكاء الاصطناعي
+Built by Ahmed elshamey for the AI Community | صنع بواسطة أحمد الشامي لمجتمع الذكاء الاصطناعي
