@@ -39,11 +39,11 @@ else
     echo -e "\n${GREEN}  ✅ Node.js already installed: $(node -v)${NC}"
 fi
 
-# 4. Install PM2 Globally
+# 4. Install PM2 and Global Dependencies
 if ! command -v pm2 &> /dev/null; then
-    echo -e "\n${YELLOW}── Step 3: Installing PM2...${NC}"
-    npm install -g pm2
-    echo -e "${GREEN}  ✅ PM2 installed successfully${NC}"
+    echo -e "\n${YELLOW}── Step 3: Installing PM2 and Global Dependencies...${NC}"
+    npm install -g pm2 playwright
+    echo -e "${GREEN}  ✅ PM2 and Playwright installed globally${NC}"
 else
     echo -e "${GREEN}  ✅ PM2 already installed${NC}"
 fi
