@@ -36,7 +36,7 @@ sudo apt-get update && sudo apt-get install -y git curl
 # Clone the repository
 git clone https://github.com/ahmed-elshamey/deepseek-warp.git
 cd deepseek-warp
-```
+
 # Make setup script executable and run it
 chmod +x setup.sh
 sudo ./setup.sh
