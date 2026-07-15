@@ -77,7 +77,7 @@ node manage-api.mjs [command] [name]
 | `/health` | `GET` | Check instance health & browser status |
 | `/v1/api-info` | `GET` | Get API key details and limits |
 
-## ⚠️ Disclaimer
+## ⚠️ Warning
 
 This project is created for **educational purposes** and to demonstrate the power of browser automation. Please use it responsibly and respect the Terms of Service of the providers.
 
